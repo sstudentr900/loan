@@ -304,7 +304,7 @@ img {
 }
 
 .indexNav .top li:nth-child(1) i {
-    background: url('https://i.imgur.com/Xtp7H84.png') no-repeat;
+    background: url('../img/n01.png') no-repeat;
     background-position: -590px 0;
     width: 30px;
     height: 30px;
@@ -1154,7 +1154,7 @@ img {
     width: 60px;
     height: 60px;
     margin: auto;
-    background: url('https://i.imgur.com/Xtp7H84.png') no-repeat;
+    background: url('../img/n01.png') no-repeat;
     background-position: -170px 0;
 }
 
