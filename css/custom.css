@@ -423,7 +423,7 @@ img {
 }
 
 .indexNav .bottom i {
-    background: url('https://i.imgur.com/Xtp7H84.png') no-repeat;
+    background: url('../img/n01.png') no-repeat;
     width: 0.6em;
     height: 0.6em;
     background-size: 6.2em 0.9em;
@@ -604,7 +604,7 @@ img {
 }
 
 .indexSlide li {
-    background: url('https://i.imgur.com/nXEaoyd.jpg') no-repeat right center;
+    background: url('../img/in_s01.jpg') no-repeat right center;
     background-size: cover;
     padding: 120px 30px 180px;
 }
@@ -933,7 +933,7 @@ img {
 /***************************************indexPublic**********************************/
 
 .indexPublic {
-    background-image: url('https://i.imgur.com/eYpl8sP.png'), linear-gradient( #4db1d2, #2ca2cf);
+    background-image: url('../img/in_b02.png'), linear-gradient( #4db1d2, #2ca2cf);
     background-repeat: repeat;
     background-position: center;
 }
@@ -941,7 +941,7 @@ img {
 .indexPublic .maxWidth {
     padding: 100px 10px;
     max-width: 1100px;
-    background: url('https://i.imgur.com/uUXdrcS.png') no-repeat right bottom;
+    background: url('../img/in_b03.png') no-repeat right bottom;
 }
 
 .indexPublic .title {
@@ -1007,7 +1007,7 @@ img {
 
 .indexFooter {
     padding: 60px 0;
-    background-image: url('https://i.imgur.com/3OZG6MJ.jpg'), linear-gradient(#363636, #363636);
+    background-image: url('../img/f01.jpg'), linear-gradient(#363636, #363636);
     background-repeat: no-repeat;
     background-position: center bottom;
     color: rgba(255, 255, 255, .8);
@@ -1044,7 +1044,7 @@ img {
 }
 
 .indexFooter .footerService i {
-    background: url('https://i.imgur.com/Xtp7H84.png') no-repeat;
+    background: url('../img/n01.png') no-repeat;
     width: 90px;
     height: 90px;
     margin-right: 5px;
@@ -1126,7 +1126,7 @@ img {
 
 .breadcrumbs {
     margin-top: 177px;
-    background: url('https://i.imgur.com/Idxspet.jpg') no-repeat center;
+    background: url('../img/ho_i01.jpg') no-repeat center;
     background-size: cover;
     color: #fff;
 }
